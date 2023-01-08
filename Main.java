@@ -1,5 +1,9 @@
-public static void print() {
-  System.out.println("Hello World!");
-}
+def hello():
+  print("Hi")
+    
+    
+def bye()
+    print("Bye");
 
-print();
+
+print(hello())
